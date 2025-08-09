@@ -7,13 +7,7 @@ import { getFirestore, doc, setDoc } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCr6SEvuXuyQ-5l6vyiGoRsxVMesC9QKOc",
-  authDomain: "finance-cf6d3.firebaseapp.com",
-  projectId: "finance-cf6d3",
-  storageBucket: "finance-cf6d3.firebasestorage.app",
-  messagingSenderId: "907977174730",
-  appId: "1:907977174730:web:e4ce25a3b7cb49c6fe0e33",
-  measurementId: "G-8WSCMBWHB9"
+  
 };
 
 // Initialize Firebase
